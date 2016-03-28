@@ -1,4 +1,4 @@
 # hello-word
 simple
-hello word!
+hello world!
 TomAndMark here
